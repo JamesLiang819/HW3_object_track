@@ -1,5 +1,5 @@
-from models import *
-from utils import *
+from HW3_object_track.models import *
+from HW3_object_track.utils import *
 
 import os, sys, time, datetime, random
 import torch
